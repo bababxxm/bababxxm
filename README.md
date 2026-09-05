@@ -64,17 +64,6 @@ I am a software engineering student at **42 Bangkok**, focused on **systems prog
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bababxxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="bababxxm's GitHub stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bababxxm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/bababxxm">Sorawit Klaokliang</a></sub>
 </div>
